@@ -73,24 +73,41 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
+Marco's first pass: it's only 3h, so it allows for 30min break  
+Feel free to scramble!  
 
-13:30 – 13:45 [Introduction to Containers in HPC](slides/sc19_tutorial_intro.pdf) (Younge)
+14:30 - 14:40 Introduction to Containers in HPC (Shane/Andrew?)  
+Including defining jargon (containers, images, registries/repos,..)  
 
-13:45 – 14:15 [How to build your first Docker container](/01-hands-on.md) (Canon)
+14:40 - 15:20 Build and run your first Docker container (Carlos/Shane?)  
+Including also minimal pull and run examples, to define these concepts  
 
-14:15 – 14:45 [How to deploy a container on a supercomputer](/02-hands-on.md) (Canon)
+15:20 - 15:50 Deploy containers on a supercomputer (Marco?)  
+Shifter+Singularity, with BLAST example. May include mounting host dirs.  
 
-14:45 – 15:00 [Best Practices](slides/sc19_tutorial_bestpract.pdf) (Canon)
+15:50 - 16:20 High performance containers (Marco?)  
+Includes MPI (OpenFoam ex.), Slurm, and eventually sample syntax for GPUs (slide only)  
+Happy to show both Shifter+Singularity, or can do one only if we need to save time
 
-15:00 – 15:30              -- Break –
+16:20 - 16:40 Best practices (Shane?)  
 
-15:30 – 16:00 [Running an HPC app on the E4S container](slides/E4S_SC19.pdf) (Shende)
+16:40 - 17:00 E4S containers initiative (Sameer?)  
 
-16:00 - 16:30 [How to build a Singularity container image](/03-hands-on.md) (Arango)
+17:00 - 17:20 Containerising with Spack (Carlos?)  
 
-16:30 - 16:50 [Running Singularity on a supercomputer & adv features](/04-hands-on.md) (Arango)
+17:20 - 17:30 Wrap-up and final Q&A (Shane/Andrew?)  
 
-16:50 - 17:00 [Success Stories & Summary](slides/sc19_tut_summary.pdf) (Canon)
 
+<!--
+13:30 – 13:45 [Introduction to Containers in HPC](slides/sc19_tutorial_intro.pdf) (Younge)  
+13:45 – 14:15 [How to build your first Docker container](/01-hands-on.md) (Canon)  
+14:15 – 14:45 [How to deploy a container on a supercomputer](/02-hands-on.md) (Canon)  
+14:45 – 15:00 [Best Practices](slides/sc19_tutorial_bestpract.pdf) (Canon)  
+15:00 – 15:30              - Break –  
+15:30 – 16:00 [Running an HPC app on the E4S container](slides/E4S_SC19.pdf) (Shende)  
+16:00 - 16:30 [How to build a Singularity container image](/03-hands-on.md) (Arango)  
+16:30 - 16:50 [Running Singularity on a supercomputer & adv features](/04-hands-on.md) (Arango)  
+16:50 - 17:00 [Success Stories & Summary](slides/sc19_tut_summary.pdf) (Canon)  
+-->
 
 
