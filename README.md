@@ -79,7 +79,7 @@ Feel free to scramble!
 14:30 - 14:40 Introduction to Containers in HPC (Shane/Andrew?)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:40 - 15:20 Build and run your first Docker container (Carlos/Shane?)  
+14:40 - 15:20 Build and run your first Docker container (Eduardo/Shane?)  
 Including also minimal pull and run examples, to define these concepts  
 
 15:20 - 15:50 Deploy containers on a supercomputer (Marco?)  
@@ -93,7 +93,7 @@ Happy to show both Shifter+Singularity, or can do one only if we need to save ti
 
 16:40 - 17:00 E4S containers initiative (Sameer?)  
 
-17:00 - 17:20 Containerising with Spack (Carlos?)  
+17:00 - 17:20 Containerising with Spack (Eduardo?)  
 
 17:20 - 17:30 Wrap-up and final Q&A (Shane/Andrew?)  
 
