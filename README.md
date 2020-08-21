@@ -76,26 +76,26 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 Marco's first pass: it's only 3h, so it allows for 30min break  
 Feel free to scramble!  
 
-14:30 - 14:40 Introduction to Containers in HPC (Shane/Andrew?)  
+14:30 - 14:40 Introduction to Containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
 14:40 - 15:20 Build and run your first Docker container (Eduardo/Shane?)  
 Including also minimal pull and run examples, to define these concepts  
 
-15:20 - 15:50 Deploy containers on a supercomputer (Marco?)  
+15:20 - 15:50 Deploy containers on a supercomputer (Marco)  
 Shifter+Singularity, with BLAST example. May include mounting host dirs.  
 
-15:50 - 16:20 High performance containers (Marco?)  
+15:50 - 16:20 High performance containers (Marco)  
 Includes MPI (OpenFoam ex.), Slurm, and eventually sample syntax for GPUs (slide only)  
 Happy to show both Shifter+Singularity, or can do one only if we need to save time
 
-16:20 - 16:40 Best practices (Shane?)  
+16:20 - 16:40 Best practices (Shane)  
 
-16:40 - 17:00 E4S containers initiative (Sameer?)  
+16:40 - 17:00 E4S containers initiative (Sameer)  
 
-17:00 - 17:20 Containerising with Spack (Eduardo?)  
+17:00 - 17:20 Containerising with Spack (Eduardo)  
 
-17:20 - 17:30 Wrap-up and final Q&A (Shane/Andrew?)  
+17:20 - 17:30 Wrap-up and final Q&A (Shane)  
 
 
 <!--
