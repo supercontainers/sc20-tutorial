@@ -1,7 +1,7 @@
 
 # Getting Started with Containers on HPC
 
-View this on [GitHub Pages](https://supercontainers.github.io/sc19-tutorial/).
+View this on [GitHub Pages](https://supercontainers.github.io/sc20-tutorial/).
 
 ## ECP Supercontainers Tutorial Session
 
@@ -11,13 +11,13 @@ View this on [GitHub Pages](https://supercontainers.github.io/sc19-tutorial/).
 
 Half-day Tutorial Session
 
-Venue: Supercomputing Conference 2019 (SC19')
+Venue: Supercomputing Conference 2020 (SC20')
 
 Date: Sunday, 17 November 2019 1:30pm - 5pm
 
 Location: Virtual (Atlanta, GA, USA)
 
-Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/)
+Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/presentation/?id=tut129&sess=sess271)
 
 Topic Area: Programming Models & Systems Software
 
