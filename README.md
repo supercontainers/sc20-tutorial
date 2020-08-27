@@ -13,7 +13,7 @@ Half-day Tutorial Session
 
 Venue: Supercomputing Conference 2020 (SC20')
 
-Date: Sunday, 17 November 2019 1:30pm - 5pm
+Date: Tuesday, 10 November 2020 2:30pm - 6:30pm (Eastern Standard Time)
 
 Location: Virtual (Atlanta, GA, USA)
 
