@@ -5,8 +5,7 @@ View this on [GitHub Pages](https://supercontainers.github.io/sc20-tutorial/).
 
 ## ECP Supercontainers Tutorial Session
 
-<div style="text-align:center"><img src="images/ecp.jpg" width="250"></div>
-<div style="text-align:center"><img src="images/pawsey.jpeg" width="250"></div>
+<img src="images/ecp.jpg" width="250"><img src="images/pawsey.jpeg" width="250">
 
 ## Details
 
