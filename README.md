@@ -15,11 +15,9 @@ Venue: Supercomputing Conference 2019 (SC19')
 
 Date: Sunday, 17 November 2019 1:30pm - 5pm
 
-Room: 207
+Location: Virtual (Atlanta, GA, USA)
 
-Location: Denver, CO, USA
-
-Link: [Container Computing for HPC and Scientific Workflows @ SC19](https://sc19.supercomputing.org/presentation/?id=tut129&sess=sess206)
+Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/)
 
 Topic Area: Programming Models & Systems Software
 
@@ -27,23 +25,18 @@ Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Sof
 
 ## EC2 Login
 
-hostname: tutXX.supercontainers.org
-
-user: tutorial
-
-password: HPCLinux12!
-
+These will be provided the day of the tutorial.
 
 
 ## Abstract
 
 Container computing has revolutionized the way applications are developed and delivered. It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer. Tools like Docker, Shifter, Singularity and Charliecloud enable a new paradigm for scientific and technical computing. However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches. This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes. The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
 
-This is an updated version of the highly successful tutorial presented at SC16, SC17, SC18. It was attended by more than 100 people each year. The 2018 tutorial was very highly rated with 2.8 / 3 stars for “would recommend” and 4.3 / 5 stars for overall quality.
+This is an updated version of the highly successful tutorial presented at SC16, SC17, SC18 and SC19.
 
 ## Prerequisites
 
-This is a hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  We will be providing training user accounts to both pre-configured EC2 instances as well as the Cori Supercomputer at NERSC.
+This is a hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  We will be providing training user accounts to both pre-configured EC2 instances.
 
 <div style="text-align:center"><img src="images/AWS_logo.png" width="250"></div>
 
@@ -73,8 +66,10 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
+<!--
 Marco's first pass: it's only 3h, so it allows for 30min break  
 Feel free to scramble!  
+-->
 
 14:30 - 14:40 Introduction to Containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
