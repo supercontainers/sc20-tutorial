@@ -6,12 +6,12 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "UNDER CONSTRUCTION - Workshop: Singularity Containers for (Radio)Astronomy"
+title: "UNDER CONSTRUCTION - Using Containers to Accelerate HPC"
 
 # Contact.  This *must* include the protocol: if it's an email
 # address, it must look like "mailto:lessons@software-carpentry.org",
 # or if it's a URL, "https://gitter.im/username/ProjectName".
-email: "mailto:help@pawsey.org.au"
+email: "mailto:ajyoung@sandia.gov"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
