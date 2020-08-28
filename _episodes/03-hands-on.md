@@ -1,4 +1,11 @@
-/# Building and Running Containers
+---
+title: "Building and Running Containers"
+teaching: 
+exercises: 
+questions:
+objectives:
+- TBD
+---
 
 In the third hour we will build the preceding container from scratch.
 

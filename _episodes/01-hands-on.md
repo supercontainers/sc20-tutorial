@@ -1,4 +1,11 @@
-# Intro to Docker
+---
+title: "Intro to Docker"
+teaching: 
+exercises: 
+questions:
+objectives:
+- TBD
+---
 
 ## Pulling and running an existing image
 

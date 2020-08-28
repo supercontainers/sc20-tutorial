@@ -1,4 +1,11 @@
-# Sylabs cloud
+---
+title: "Sylabs cloud"
+teaching: 
+exercises: 
+questions:
+objectives:
+- TBD
+---
 
 In this sections we will build learn how to push our `hellompi.sif` image into the sylabs library, then to pull it from a different host, and how can we add trust by signing our image with a PGP protocol and store my public keys in the cloud.
 

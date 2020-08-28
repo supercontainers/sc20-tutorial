@@ -1,4 +1,11 @@
-# Second hands-on - Shifter
+---
+title: "Second hands-on - Shifter"
+teaching: 
+exercises: 
+questions:
+objectives:
+- TBD
+---
 
 ## Logging in to NERSC
 
