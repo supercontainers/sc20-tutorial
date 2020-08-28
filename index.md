@@ -5,6 +5,17 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 ---
 
 
+<img src="fig/ecp.jpg" width="250"><img src="fig/pawsey.jpeg" width="250">
+
+ECP Supercontainers Tutorial Session @ Supercomputing Conference 2020 (SC20')
+
+Date: Tuesday, 10 November 2020 2:30pm - 6:30pm (Eastern Standard Time)
+
+Location: Virtual (Atlanta, GA, USA)
+
+Link: [Container Computing for HPC and Scientific Workflows @ SC20](https://sc20.supercomputing.org/presentation/?id=tut129&sess=sess271)
+
+
 > ## Prerequisites
 > 
 > This is a hands-on tutorial. Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  
@@ -13,7 +24,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 {: .prereq}
 
 
-> ### Questions
+> ## Questions
 > 
 > You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/11gMZ-T7iA5XiRWPLYIqX7Gqv7RMb-NF9kzGYHrnOi04/edit?usp=sharing).
 > Please append your question below the others in the document.
