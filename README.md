@@ -71,7 +71,7 @@ Marco's first pass: it's only 3h, so it allows for 30min break
 Feel free to scramble!  
 -->
 
-14:30 - 14:40 Introduction to Containers in HPC (Shane)  
+14:30 - 14:40 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
 14:40 - 15:20 Build and run your first Docker container (Eduardo/Shane?)  
