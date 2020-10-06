@@ -27,22 +27,22 @@ After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to ru
 US-West-Oregon: ami-0fe12765123c6a840
 
 
-### Optional Prerequisites
-
-Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a Docker and Sylabs (Singularity) account in advance at https://cloud.docker.com/ and https://cloud.sylabs.io/ This accounts will be needed to create images on Docker Cloud/DockerHub and Sylabs Cloud.
-
-[Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
-
-[Install Docker on Linux]({{ page.root }}/files/install-docker.sh) \| [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
-
-**Note:** install scripts have been tested on a Ubuntu machine through a user that can run *sudo* commands without password prompts. There's no warranty they will work in your Linux box, you should consider them as templates.
-
-#### macOS or Windows machine
-
-For *Singularity*, you will need to setup a Linux virtual machine, and then follow the same instructions as above.  
-It's not as bad as it sounds... the main two options are:
-  - Vagrant: follow these instructions by Sylabs on [Setting up Singularity with Vagrant](https://sylabs.io/guides/3.5/admin-guide/installation.html#installation-on-windows-or-mac) (*macOS* users: DO NOT use the proposed *Singularity Desktop*, use Vagrant instead);
-  - Multipass: follow instructions from the [Multipass Homepage](https://multipass.run).
-
-For *Docker*, you can download and run installers for [macOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac/) and [Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
-
+> ## Prerequisites for self-paced tutorials
+> 
+> Users can also install Docker and Singularity prior to attending the tutorial session. Here, it may be beneficial to create a Docker and Sylabs (Singularity) account in advance at https://cloud.docker.com/ and https://cloud.sylabs.io/ This accounts will be needed to create images on Docker Cloud/DockerHub and Sylabs Cloud.
+> 
+> [Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
+> 
+> [Install Docker on Linux]({{ page.root }}/files/install-docker.sh) \| [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
+> 
+> **Note:** install scripts have been tested on a Ubuntu machine through a user that can run *sudo* commands without password prompts. There's no warranty they will work in your Linux box, you should consider them as templates.
+> 
+> ### macOS or Windows machine
+> 
+> For *Singularity*, you will need to setup a Linux virtual machine, and then follow the same instructions as above.  
+> It's not as bad as it sounds... the main two options are:
+>   - Vagrant: follow these instructions by Sylabs on [Setting up Singularity with Vagrant](https://sylabs.io/guides/3.5/admin-guide/installation.html#installation-on-windows-or-mac) (*macOS* users: DO NOT use the proposed *Singularity Desktop*, use Vagrant instead);
+>   - Multipass: follow instructions from the [Multipass Homepage](https://multipass.run).
+> 
+> For *Docker*, you can download and run installers for [macOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac/) and [Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
+{: .solution}
