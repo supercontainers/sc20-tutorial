@@ -29,7 +29,7 @@ US-West-Oregon: ami-0fe12765123c6a840
 
 > ## Prerequisites for self-paced tutorials
 > 
-> Users can also install Docker and Singularity prior to attending the tutorial session.  MPICH is required for running the MPI examples, too.
+> Users can also install Docker and Singularity prior to attending the tutorial session.  MPICH is required for running the MPI examples, too.  
 > Here, it may be beneficial to create a Docker and Sylabs (Singularity) account in advance at [https://cloud.docker.com](https://cloud.docker.com) and [https://cloud.sylabs.io](https://cloud.sylabs.io).  These accounts will be needed to create images on Docker Cloud/DockerHub and Sylabs Cloud.
 > 
 > [Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
