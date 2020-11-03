@@ -74,12 +74,9 @@ Including also minimal pull and run examples, to define these concepts
 
 15:25 - 15:40 BREAK
 
-15:40 - 16:10 Deploy containers on a supercomputer (Marco)  
-Shifter+Singularity, with BLAST example. May include mounting host dirs.  
+15:40 - 16:15 Deploy containers on a supercomputer (Marco)  
 
-16:10 - 16:40 High performance containers (Marco)  
-Includes MPI (OpenFoam ex.), Slurm, and eventually sample syntax for GPUs (slide only)  
-Happy to show both Shifter+Singularity, or can do one only if we need to save time
+16:15 - 16:40 High-performance containers (Marco)  
 
 16:40 - 16:55 BREAK
 
