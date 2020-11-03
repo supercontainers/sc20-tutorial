@@ -27,6 +27,17 @@ After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to ru
 US-West-Oregon: ami-0fe12765123c6a840
 
 
+### Materials repository
+
+To run the examples yourself, you can download the materials with:
+
+```bash
+cd ~
+git clone https://github.com/supercontainers/sc20-tutorial.git
+cd sc20-tutorial/exercises
+```
+
+
 > ## Prerequisites for self-paced tutorials
 > 
 > Users can also install Docker and Singularity prior to attending the tutorial session.  MPICH is required for running the MPI examples, too.  
