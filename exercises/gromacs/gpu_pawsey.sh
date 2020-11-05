@@ -9,6 +9,13 @@
 image="docker://nvcr.io/hpc/gromacs:2018.2"
 module load singularity
 
+
+# uncompress configuration input file
+if [ -e conf.gro.gz ] ; then
+ gunzip conf.gro.gz
+fi
+
+
 # run Gromacs preliminary step with container
 srun singularity exec --nv $image \
     gmx grompp -f pme.mdp
