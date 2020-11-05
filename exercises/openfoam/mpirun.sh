@@ -4,10 +4,12 @@ NTASKS="2"
 image="library://marcodelapierre/beta/openfoam:v1812"
 
 # this configuration depends on the host
-export MPICH_ROOT="/opt/mpich/mpich-3.1.4/apps"
+export MPICH_ROOT="/usr/local/packages/e4s/spack"
+export MPICH_LIBS="$( which mpirun )"
+export MPICH_LIBS="${MPICH_LIBS%/bin/mpirun*}/lib"
 
 export SINGULARITY_BINDPATH="$MPICH_ROOT"
-export SINGULARITYENV_LD_LIBRARY_PATH="$MPICH_ROOT/lib"
+export SINGULARITYENV_LD_LIBRARY_PATH="$MPICH_LIBS"
 
 
 
