@@ -84,7 +84,7 @@ Including also minimal pull and run examples, to define these concepts
 
 17:15 - 17:35 E4S containers initiative (Sameer)  
 
-17:35 - 17:55 Containerising with Spack (Eduardo)  
+17:35 - 17:55 Advanced container builds (Eduardo)  
 
 17:55 - 18:00 Wrap-up and final Q&A  
 
